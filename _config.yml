@@ -8,7 +8,7 @@
 # Site settings
 title: Github home
 email: tim@pakkianathan.com
-remote_theme: TaylanTatli/Moon 
+remote_theme: nielsenramon/chalk
 description: > # this means to ignore newlines until "baseurl:"
   My personal site hosted in github.
 baseurl: "" # the subpath of your site, e.g. /blog
