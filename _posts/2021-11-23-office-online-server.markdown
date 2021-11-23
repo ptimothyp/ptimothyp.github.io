@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Office Online server"
-date:   2021-11-23 21:00:50 +1100
+date:   2021-11-23 21s:00:50 +1100
 categories: oos sharepoint
 ---
 
