@@ -8,7 +8,7 @@ categories: oos sharepoint
 # Trouble shooting
 
 ## Check version of OOS installed
-{% highlight powershell %}
+{% include codeHeader.html %}
+```
 Get-Content C:\ProgramData\Microsoft\OfficeWebApps\Data\local\OfficeVersion.inc
-{% endhighlight %}
-
+```
